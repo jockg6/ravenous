@@ -5,9 +5,19 @@
   width: 16.66rem;
   margin: 0 .5rem 2.3rem .5rem;
 }
-  
+
+/*
 .Business .image-container {
   height: 16.66rem;
+  margin-bottom: 1rem;
+}
+*/
+
+.image-container {
+  width: 20rem;
+  height: 16.66rem;
+  border: 2px solid blue;
+  margin-top: 1rem;
   margin-bottom: 1rem;
 }
   
